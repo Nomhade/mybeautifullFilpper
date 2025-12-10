@@ -1,0 +1,62 @@
+2025-12-10 19:52:25,295 : INFO : root : Loading config.
+2025-12-10 19:52:25,342 : INFO : ConfigProcessor : Config spec file cache created: C:\Users\User\AppData\Local\Temp\config_spec.mpf_cache
+2025-12-10 19:52:25,342 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-12-10 19:52:25,342 : INFO : ConfigProcessor : Loading config from file C:\Users\User\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2025-12-10 19:52:25,358 : INFO : ConfigProcessor : Loading config: C:\Users\User\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2025-12-10 19:52:25,358 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Desktop\mybeautifullflipper\config\config.yaml.
+2025-12-10 19:52:25,358 : INFO : ConfigProcessor : Loading config: C:\Users\User\Desktop\mybeautifullflipper\config\config.yaml
+2025-12-10 19:52:25,358 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\02854512e1ebd1af1ce396d8876646ca.mpf_cache
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config from file C:\Users\User\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config: C:\Users\User\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Desktop\mybeautifullflipper\modes\attract\config\attract.yaml.
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config: C:\Users\User\Desktop\mybeautifullflipper\modes\attract\config\attract.yaml
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\aeeb5e9e1c41dbbca1668cc3e9ad4610.mpf_cache
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config from file C:\Users\User\mpf\Lib\site-packages\mpf\modes\game\config\game.yaml.
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config: C:\Users\User\mpf\Lib\site-packages\mpf\modes\game\config\game.yaml
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\6cfaad18793074bb1ac08c51dc651247.mpf_cache
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\aeeb5e9e1c41dbbca1668cc3e9ad4610.mpf_cache
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Desktop\mybeautifullflipper\modes\base\config\base.yaml.
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Loading config: C:\Users\User\Desktop\mybeautifullflipper\modes\base\config\base.yaml
+2025-12-10 19:52:26,020 : INFO : ConfigProcessor : Config file cache created: C:\Users\User\AppData\Local\Temp\c127a42b6a43f1bff0b0a9ad36f02818.mpf_cache
+2025-12-10 19:52:26,020 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev11
+2025-12-10 19:52:26,020 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-12-10-19-52-25-mpf-DESKTOP-P26P02J.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\User\\Desktop\\mybeautifullflipper\\logs\\2025-12-10-19-52-25-mpf-DESKTOP-P26P02J.log'}
+2025-12-10 19:52:26,020 : INFO : Machine : MPF path: C:\Users\User\mpf\Lib\site-packages\mpf
+2025-12-10 19:52:26,020 : INFO : Machine : Machine path: C:\Users\User\Desktop\mybeautifullflipper
+2025-12-10 19:52:26,020 : INFO : Machine : Platform: win32
+2025-12-10 19:52:26,020 : INFO : Machine : Python executable location: C:\Users\User\mpf\Scripts\python.exe
+2025-12-10 19:52:26,020 : INFO : Machine : Python version: 3.12.7 (64-bit)
+2025-12-10 19:52:26,035 : INFO : Machine : Initializing MPF...
+2025-12-10 19:52:26,629 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,738 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,738 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,738 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev11, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,738 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.7', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,847 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22621-SP0', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,847 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,847 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,847 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22621', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,847 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,847 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\User\\Desktop\\mybeautifullflipper\\logs\\2025-12-10-19-52-25-mpf-DESKTOP-P26P02J.log', 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,847 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-12-10 19:52:26,910 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2025-12-10 19:52:26,941 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2025-12-10 19:52:26,941 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2025-12-10 19:52:26,957 : INFO : Mode.attract : Started. Priority: 10
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2025-12-10 19:52:26,957 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2025-12-10 19:52:26,957 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2025-12-10 19:52:39,480 : INFO : Machine : Shutting down...
+2025-12-10 19:52:39,480 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-12-10 19:52:39,480 : INFO : root : MPF run loop ended.
